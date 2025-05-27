@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+  font-family: Montserrat;
+}
+#m{
+  font-family: Montserrat;
+  font-size: 50px;
+  text-align: center;
+  margin: 1px;
+}
+#o{
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 20px;
+}
+#td{
+  text-decoration: underline;
+}
